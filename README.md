@@ -2,5 +2,7 @@
 Using Sui is the first internet-scale programmable blockchain platform
 
 Project overview:
-Trading photocards with a coin that can be stamped on the blockchain to identify an item's fake vs real value for the trading photocards
+Deployed a simple smart contract using Daliee- generative AI. The idea is to trading photocards to transform into a digital asset with a coin that can be stamped on the blockchain to identify an item's to identify the value of photocards using Suit technology.
+
+Thank you Mysten Labs. 
 
